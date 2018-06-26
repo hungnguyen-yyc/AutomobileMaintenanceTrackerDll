@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="AMTDll.csproj" t="IncludeRecursive" />
+      <e p="AMTDll.DLL.sln" t="IncludeFlat" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="IRepository.cs" t="Include" />
+      <e p="Models" t="Include">
+        <e p="EntityModel.cs" t="Include" />
+        <e p="MaintenanceTypeEnum.cs" t="Include" />
+        <e p="ServiceHistoryModel.cs" t="Include" />
+        <e p="ServiceModel.cs" t="Include" />
+        <e p="ServiceProviderModel.cs" t="Include" />
+        <e p="VehicleModel.cs" t="Include" />
+        <e p="VehicleServiceModel.cs" t="Include" />
+        <e p="VehicleTypeEnum.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netstandard2.0" t="Include">
+            <e p="AMTDll.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Repository.cs" t="Include" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.1/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_AMTDll.DLL.-762728197.00" t="ExcludeRecursive" />
+  </component>
+</project>

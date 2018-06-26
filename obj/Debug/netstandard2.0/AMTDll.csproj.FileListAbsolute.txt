@@ -1,0 +1,9 @@
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/bin/Debug/netstandard2.0/AMTDll.deps.json
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/bin/Debug/netstandard2.0/AMTDll.dll
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/bin/Debug/netstandard2.0/AMTDll.pdb
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.csproj.CoreCompileInputs.cache
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.AssemblyInfoInputs.cache
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.AssemblyInfo.cs
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.dll
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.pdb
+/Users/hungnguyen/Documents/Projects/AutomobileMaintenanceTracker/AMTDll.DLL/obj/Debug/netstandard2.0/AMTDll.csprojResolveAssemblyReference.cache
